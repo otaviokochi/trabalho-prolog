@@ -1,5 +1,5 @@
 # trabalho-prolog
-# How to run
+How to run
 ***
   # Open swi prolog.
   # Open file "trabalho.pl" with "emacs('trabalho.pl')." command.
